@@ -6,11 +6,12 @@ To run this code
   <li>Extract the files in the dir. </li>
   For ocr.py -- which uses a extra feature enhancement with preprocessing the image
   <ol>
-  <li> <b> python <fileName>.py -i <imageName>.png -p blur</b> </li>
-  Note: -p is optional. Default value for preprocessing is threshold. which can be changed to <i>blur</i> by using the argument
+  <li> <b> python <fileName>.py -i imageName.png -p blur</b> </li>
+  <li>Note: -p is optional. Default value for preprocessing is threshold. which can be changed to <i>blur</i> by using the argument</li>
+  </ol>
   For handocr.py
 <ol>
-  <li> <b> python <fileName>.py -i <imageName>.png</b> </li>
+  <li> <b> python <fileName>.py -i imageName.png</b> </li>
   </ol>
  </ul>
 Note: You should change the image in the python file. This file doesnt have args suppport
