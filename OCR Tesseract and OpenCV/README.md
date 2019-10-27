@@ -14,4 +14,3 @@ To run this code
   <li> <b> python <fileName>.py -i imageName.png</b> </li>
   </ol>
  </ul>
-Note: You should change the image in the python file. This file doesnt have args suppport
